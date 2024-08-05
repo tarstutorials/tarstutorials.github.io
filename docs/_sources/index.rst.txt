@@ -1,41 +1,20 @@
-.. VRSensorIntegration documentation master file, created by
-   sphinx-quickstart on Mon Jan 29 14:35:50 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
-Welcome to VR Sensor Integration!
+
+Welcome to TARS Tutorials!
 =================================
 
-This is a set of free online tutorials on integrating physiological sensing into virtual reality applications. These tutorials are intended for a wide audience --- from health care professionals who have little background in programming, to software developers who have little background in wearable health sensors, and finally to any students looking to find a niche in these rapidly expanding fields.
+Each site shown below is a project created by members of the Terascale All-Sensing Research Studio (TARS) with the intent to help people learn and integrate different technologies.
 
 ----------------
-Acknowledgements
+Tutorial Sites
 ----------------
 
-This work is supported by the `De Luca Foundation <https://delucafoundation.org/>`_.
+* `Integration of Physiological Sensors with Virtual Reality <https://tarstutorials.github.io/vrsensorint/>`_
 
---------
-Contents
---------
-
-^^^^^^^^^^^^
-Introduction
-^^^^^^^^^^^^
-
-For a further introduction to the course, see the following pages:
-
-* :doc:`/content/introduction`
-
-
-^^^^^^^^^^^^^^^^
-Tutorial Modules
-^^^^^^^^^^^^^^^^
+* `Integration of Physiological Sensors with Robotics <https://tarstutorials.github.io/robotsensorint/>`_
 
 
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Events and Additional Resources
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 
@@ -49,18 +28,5 @@ Events and Additional Resources
    :hidden:
    :titlesonly:
 
-   content/introduction
- 
-
-.. toctree::
-   :maxdepth: 3
-   :hidden:
-   :caption: Tutorial Modules
-
- 
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Events and Additional Resources
+  
    
