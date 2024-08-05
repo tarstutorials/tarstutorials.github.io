@@ -3,7 +3,7 @@
 Welcome to TARS Tutorials!
 =================================
 
-Each site shown below is a project created by members of the Terascale All-Sensing Research Studio (TARS) with the intent to help people learn and integrate different technologies.
+Each site shown below is a project created by members of the Terascale All-Sensing Research Studio (TARS) with the intent to help people learn and integrate different technologies. Learn more about the lab at our `home page <https://tars-home.github.io/>`_.
 
 ----------------
 Tutorial Sites
