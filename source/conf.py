@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'RobotSensorInt'
-copyright = ''
-author = 'Ava Megyeri, Natasha Kholgade Banerjee, and Sean Banerjee'
+project = 'TARS Tutorials'
+copyright = 'Ava Megyeri, Ethan Matzek, Natasha Kholgade Banerjee, and Sean Banerjee'
+author = 'Ava Megyeri, Ethan Matzek, Natasha Kholgade Banerjee, and Sean Banerjee'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
